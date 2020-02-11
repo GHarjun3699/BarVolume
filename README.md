@@ -1,2 +1,2 @@
 # BarVolume
-Simple Code - calculate the volume of bar
+Simple Code - Calculate the Volume of Bar
